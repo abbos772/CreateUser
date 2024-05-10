@@ -31,6 +31,7 @@ function Users({ data }) {
             >
               Back
             </button>
+            <h3 style={{ paddingTop: "10px" }}>Instagram</h3>
             <h2 style={{ color: "red" }}>@abboskadirov04 Obuna bolamis</h2>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
